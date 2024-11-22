@@ -7,7 +7,7 @@ const Main = () => {
       {/* Left Section: Text */}
       <div className="text-center lg:text-left">
         <h1 className="text-5xl font-bold">Hello, I'm Himanshi Gupta</h1>
-        <p className="mt-4 text-xl">Full Stack Developer | React.js | Spring Boot</p>
+        <p className="mt-4 text-xl">Full Stack Developer | React.js | Java</p>
         <a
           href="https://drive.google.com/file/d/177mOUz8eYt8WtmG6E5ffq3huXeqfX-GW/view?usp=sharing"
           target="_blank"
